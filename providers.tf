@@ -1,0 +1,3 @@
+provider "env" {
+  # Configuration options
+}
